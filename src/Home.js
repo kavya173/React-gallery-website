@@ -12,7 +12,7 @@ const FlexWrapper = styled.div`
 export const Home = (props) => (
   <FlexWrapper>
     <h1>
-        "LOOK AND THINK BEFORE OPENING THE SHUTTER.THE HEART AND MIND ARE TRUE LENS OG THE CAMERA." This is my Gallery. EXPLORE!!
+        "LOOK AND THINK BEFORE OPENING THE SHUTTER.THE HEART AND MIND ARE TRUE LENS OF THE CAMERA." This is my Gallery. EXPLORE!!
     </h1>
   </FlexWrapper>
 )
