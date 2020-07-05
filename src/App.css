@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+body{
+  background-color: orange;
+}
 
 .mydiv{
   display: flex;
