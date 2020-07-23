@@ -13,11 +13,9 @@ export const About = () => (
   <FlexWrapper>
     <h2> About    Page </h2>
          <p>
-             This is my assignment project by Boundless Digital Solutions.
-            This website allows you to see photos that i have taken.
-            I hope it was according to the instructions.
-
-            ENJOY!
+             This is my project on API Autimated Gallery Website. API and access key are used from Unsplash.
+            This website allows you to see photos that you are interested to explore. 
+            SEARCH AND ENJOY!
         </p>
   </FlexWrapper>
 )
