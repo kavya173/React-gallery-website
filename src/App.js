@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   const [value,setValue]=useState("")
   const[results,setResults]=useState([])
-  //VIIfm4z4alq9dDWW8l9TSvbSM3IjkqGGRLv7s-ELqok:--my access key
+  //Use your API access key and put inside under" " 'cliet_id=" "&' in the line below. The given access key has been deleted. 
   const fetchImages=()=>{
     fetch(`https://api.unsplash.com/search/photos?client_id=VIIfm4z4alq9dDWW8l9TSvbSM3IjkqGGRLv7s-ELqok&query=${value}&orientation=squarish&per_page=60`)
     .then(res=>res.json())
@@ -31,7 +31,6 @@ function App() {
           <Route component={NoMatch} />
         </Switch>
       
-    
     <div className="website">
       <img src={logo} height="100" alt="Camera-icon's Logo" />
       <div className="mydiv">
