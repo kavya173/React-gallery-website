@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Donot use the given API. Create your own API on Unsplash or any site and use it. My account has been deleted from Unsplash.com. 
+
 ## Available Scripts
 
 In the project directory, you can run:
