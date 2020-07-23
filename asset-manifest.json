@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/api-automated-gallery-website/static/css/main.d4830e1c.chunk.css",
+    "main.js": "/api-automated-gallery-website/static/js/main.6b46ff2b.chunk.js",
+    "main.js.map": "/api-automated-gallery-website/static/js/main.6b46ff2b.chunk.js.map",
+    "runtime-main.js": "/api-automated-gallery-website/static/js/runtime-main.268021c1.js",
+    "runtime-main.js.map": "/api-automated-gallery-website/static/js/runtime-main.268021c1.js.map",
+    "static/js/2.6a106295.chunk.js": "/api-automated-gallery-website/static/js/2.6a106295.chunk.js",
+    "static/js/2.6a106295.chunk.js.map": "/api-automated-gallery-website/static/js/2.6a106295.chunk.js.map",
+    "index.html": "/api-automated-gallery-website/index.html",
+    "precache-manifest.a36900b3ccaae622532817311b25de17.js": "/api-automated-gallery-website/precache-manifest.a36900b3ccaae622532817311b25de17.js",
+    "service-worker.js": "/api-automated-gallery-website/service-worker.js",
+    "static/css/main.d4830e1c.chunk.css.map": "/api-automated-gallery-website/static/css/main.d4830e1c.chunk.css.map",
+    "static/js/2.6a106295.chunk.js.LICENSE.txt": "/api-automated-gallery-website/static/js/2.6a106295.chunk.js.LICENSE.txt",
+    "static/media/camera-icon.svg": "/api-automated-gallery-website/static/media/camera-icon.739b10e5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268021c1.js",
+    "static/js/2.6a106295.chunk.js",
+    "static/css/main.d4830e1c.chunk.css",
+    "static/js/main.6b46ff2b.chunk.js"
+  ]
+}
