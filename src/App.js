@@ -26,9 +26,9 @@ function App() {
       <Router>
         <NavigationBar />
         <Switch>
-          <Route path="/" component={Home} />
+          <Route component={Home} />
           <Route path="/about" component={About} />
-          <Route component={NoMatch} />
+      
         </Switch>
       
     <div className="website">
