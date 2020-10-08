@@ -7,6 +7,6 @@ const Wrapper = styled.div`
 `;
 export const NoMatch = () => (
   <Wrapper>
-    <h2>   "LOOK AND THINK BEFORE OPENING THE SHUTTER.THE HEART AND MIND ARE TRUE LENS OF THE CAMERA." This is my Gallery. SEARCH and EXPLORE!!   </h2>
+    <h2>   "No Matches"   </h2>
   </Wrapper>
 )
