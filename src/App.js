@@ -26,7 +26,7 @@ function App() {
       <Router>
         <NavigationBar />
         <Switch>
-          <Route exact path="/api-automated-gallery-website" component={Home} />
+          <Route path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route component={NoMatch} />
         </Switch>
