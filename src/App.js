@@ -26,8 +26,10 @@ function App() {
       <Router>
         <NavigationBar />
         <Switch>
-          <Route component={Home} />
-          <Route path="/about" component={About} />
+        <Route path="/about" component={About} />
+          <Route path="/" exact component={Home} />
+          <Route component={NoMatch} />
+         
       
         </Switch>
       
